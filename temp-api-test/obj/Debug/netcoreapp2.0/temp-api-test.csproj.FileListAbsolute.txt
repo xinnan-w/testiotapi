@@ -1,0 +1,13 @@
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/temp-api-test.deps.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/temp-api-test.runtimeconfig.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/temp-api-test.runtimeconfig.dev.json
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/temp-api-test.dll
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/bin/Debug/netcoreapp2.0/temp-api-test.pdb
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/obj/Debug/netcoreapp2.0/temp-api-test.csprojAssemblyReference.cache
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/obj/Debug/netcoreapp2.0/temp-api-test.AssemblyInfoInputs.cache
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/obj/Debug/netcoreapp2.0/temp-api-test.AssemblyInfo.cs
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/obj/Debug/netcoreapp2.0/temp-api-test.dll
+/Users/sinanwang/Projects/temp-api-test/temp-api-test/obj/Debug/netcoreapp2.0/temp-api-test.pdb
